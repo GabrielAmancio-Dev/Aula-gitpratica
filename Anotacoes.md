@@ -1,4 +1,54 @@
 # Minhas anotacoes 
-## Ola 
-### Tudo bem
-# Nova anotacaoS
+## Ola aqui sera as anotacoes
+
+`# Primeira anotacao`
+
+`## Titulo Seção`
+
+`### Titulo Seção`
+
+## Formatção do Texto
+
+`** Texto em Negrito`
+
+**Texto em Negrito**
+
+*Texto em italico*
+
+`~~Texto Tachado~~`
+
+~~Texto Tachado~~
+
+## LINHAS
+
+```` \* Criar caixa *\
+- Ponto 
+    - Subponto
+        - subdasub 
+````
+
+````
+1. Primeiro passo 
+2. Segundo passo
+3. Terceiro passo
+````
+
+1. Primeiro passo 
+2. Segundo passo
+3. Terceiro passo
+
+## CHECKLIST
+
+````
+- [x] Tarefa Concluida
+- [ ] Tarefa Incompleta
+````
+
+- [x] Tarefa Concluida
+- [ ] Tarefa Incompleta
+
+##  LINKS
+
+`[ Viste o Github](https://github.com/)`
+
+[ Viste o Github](https://github.com/)
