@@ -45,3 +45,28 @@
 `[ Viste o Github](https://github.com/)`
 
 [ Viste o Github](https://github.com/)
+
+`[Abra outro arquivo do projeto](./Contribuiting.md)`
+
+[Abra outro arquivo do projeto](./Contribuiting.md)
+
+## Código em Linha 
+
+O comando `git add` Para adicionar alteraçoes que foram feitas
+
+O comando `git status` Para ver o estado atual do repositorio e as modificaçoes 
+
+O comando `Git commit -m "Mensagem comentario"` Adicionar comentario para registar as modificaçoes feitas
+
+O comando `Git push` Envia os arquivos para a nuvem 
+
+O comando `Git pull` Puxa os arquivos e alterações da nuvem 
+
+````
+Git add
+git status 
+git commit -m
+Git config --global user.name "Nome"   
+Git config --global user.email "Email github"
+git push
+````
