@@ -70,3 +70,40 @@ Git config --global user.name "Nome"
 Git config --global user.email "Email github"
 git push
 ````
+
+## CITAÇÕES
+
+`> Uma boa documentação explica o objetivo, o uso e as limitações de um projeto.`
+
+> Uma boa documentação explica o objetivo, o uso e as limitações de um projeto.
+
+## TABELAS
+
+```
+| Tecnologia | Finalidade |
+| --- | --- | 
+| Git | Controle de Versões |
+| Github | Hospedagem e colaboração |
+| Markdown | Documentação | 
+```
+| Tecnologia | Finalidade |
+| --- | --- | 
+| Git | Controle de Versões |
+| Github | Hospedagem e colaboração |
+| Markdown | Documentação |
+
+| Esquerda | Centro | Direita |
+| :--- | :---: | :---:
+| TEXTO | TEXTO | TEXTO
+
+```  \* Centralizar *\
+| Esquerda | Centro | Direita |
+| :--- | :---: | :---:
+| TEXTO | TEXTO | TEXTO
+````
+
+## IMAGENS
+
+`![Manoel Gomes](./Imagens/OIP.webp)`
+
+![Manoel Gomes](./Imagens/OIP.webp)
